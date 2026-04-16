@@ -15,7 +15,9 @@ h1 {
 }
 
 h2 {
-  font-size: 2.5vw ;
+  font-size:3vw ;
+  color:aliceblue;
+  margin:2vh;
 }
 
 p {
@@ -39,18 +41,21 @@ p {
 /* Compleate challenge down here */
 .h1{
   display:inline-block;
-  padding-bottom:23vh;
+  height:50vh;
   width:24vw;
+  padding-bottom: 1rem;
+  color:white;
+  font-size: 2rem;
 }
 .ea{
-  background-color: yellow;
+  background-color: orange;
 }
 .ea2{
-  background-color: green;
+  background-color: purple;
 }
 .ea3{
-  background-color: blue;
+  background-color: pink;
 }
 .ea4{
-  background-color: red;
+  background-color: black;
 }

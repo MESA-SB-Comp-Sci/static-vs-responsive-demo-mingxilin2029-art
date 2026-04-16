@@ -43,8 +43,8 @@ Resize your window after. Do the colors still fill the whole box?
 
 Right now your boxes use `50vh` for height. That means they take up half the screen. Change the height so the boxes fill the full screen height instead.
 
-- What unit value do you need to change it to?
-- Resize your window after. Does the height adjust with the screen?
+- What unit value do you need to change it to? height 
+- Resize your window after. Does the height adjust with the screen? yes 
 
 ---
 
