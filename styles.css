@@ -38,26 +38,19 @@ p {
 
 /* Compleate challenge down here */
 .h1{
+  display:inline-block;
+  padding-bottom:23vh;
+  width:24vw;
+}
+.ea{
   background-color: yellow;
-  display:inline-block;
-  padding-bottom:10vw;
-  width:24vw;
 }
-.h2{
+.ea2{
   background-color: green;
-  display:inline-block;
-  padding-bottom:10vw;
-  width:24vw;
 }
-.h3{
+.ea3{
   background-color: blue;
-  display:inline-block;
-  padding-bottom:10vw;
-  width:24vw;
 }
-.h4{
+.ea4{
   background-color: red;
-  display:inline-block;
-  padding-bottom:10vw;
-  width:24vw;
 }
